@@ -1,4 +1,4 @@
-<h2 align="center">Hello! Welcome To Web And App Development Classes</h2>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">Hello! Welcome To Web And App Development Classes</h2>
 <p align="center">We are a Coding channel which teaches you how to create your own working, responsive websites and applications.</p>
 <p align="center">
 We Teach: 
