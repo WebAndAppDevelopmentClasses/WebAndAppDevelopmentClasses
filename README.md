@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Web And App Development Classes
-- 👀 I’m interested in coding
-- 💞️ I’m also interested in creating websites and applications
+<h2 align="center">Hello! Welcome To Web And App Development Classes</h2>
+<p align="center">We are a Coding channel which teaches you how to create your own working, responsive websites and applications.</p>
+<p align="center">
+We Teach: 
+<p>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/angular%20-%23E34F26.svg?&style=for-the-badge&logo=angular&logoColor=white">
+</p>
+</p>
 
-<!---
-WebAndAppDevelopmentClasses/WebAndAppDevelopmentClasses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
